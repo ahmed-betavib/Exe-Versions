@@ -1,7 +1,7 @@
 <SoftwareVersions>
-<DBMgt>5.24.7.29</DBMgt>
-<DAQLITE>5.24.8.6</DAQLITE>
-<UHDM>5.24.07.10</UHDM>
+<DBMgt>5.24.10.4</DBMgt>
+<DAQLITE>5.24.10.4</DAQLITE>
+<UHDM>5.24.10.4</UHDM>
 <PROX>5.23.9.13</PROX>
 <VibWorksAnalyzer>20.3</VibWorksAnalyzer>
 <SAMAI>5.24.2.19</SAMAI>
